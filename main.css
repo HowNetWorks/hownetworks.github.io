@@ -1,0 +1,16 @@
+html,
+body {
+  background: white;
+  margin: 0;
+}
+
+.logo {
+  margin: 20vh 0;
+  height: 50vh;
+  max-height: 200px;
+  background-image: url("hnwlogo.svg");
+  background-origin: 50% 50%;
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
